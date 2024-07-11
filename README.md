@@ -7,13 +7,17 @@ Tools used:
 4. Python programming language
 
 an overview of the system (lcd display is cutoff at the right of the image):
+
 ![overview](https://github.com/PengxuanW/portfolio/blob/main/images/hvac_overview.png?raw=true)
 
 lcd display message example:
+
 ![lcd](https://github.com/PengxuanW/portfolio/blob/main/images/hvac_lcd.png?raw=true)
 
 written report on the overall system:
+
 [link](https://github.com/PengxuanW/Mock-HVAC-System/blob/main/report_final.pdf)
 
 demo video link (Google Drive link):
+
 [demo](https://drive.google.com/file/d/141ADcKhIx0Zh9J3aVPO4HO3q5jgL2FzZ/view?usp=sharing)
